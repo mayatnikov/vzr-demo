@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  camunda-srv:
+    image: camunda/camunda-bpm-platform
+    restart: always
+    ports:
+      - 8080:8080
+    container_name: camunda
+

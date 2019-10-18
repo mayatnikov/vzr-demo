@@ -1,0 +1,13 @@
+.DS_Store
+*~
+.classpath
+.project
+.settings
+node_modules
+bin
+Downloads
+package-lock.json
+.gradle
+build
+generatedsources
+gensrc
